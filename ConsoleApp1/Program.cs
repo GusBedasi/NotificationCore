@@ -13,7 +13,7 @@ class Program
             Type = NotificationType.Welcome,
             Payload = new Payload()
             {
-                CustomMessage = "Hello world!"
+                CustomMessage = "ABC"
             }
         };
 
